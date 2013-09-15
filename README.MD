@@ -1,1 +1,0 @@
-curl https://raw.github.com/s-a-y/front/master/setup.sh | sh
